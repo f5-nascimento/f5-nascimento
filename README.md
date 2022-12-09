@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu f5-nascimento!
 
-### Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Como principais características destaco liderança, comunicação assertiva e resiliência. Atualmente, sou Docente do curso de Informática no Sistema de Ensino Loide Martha e tenho intensificado os estudos em Spring e React almejando o crescimento em Desenvolvimento Full Stack.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Como principais características destaco liderança, comunicação assertiva e resiliência. Atualmente, sou Docente do curso de Informática no Sistema de Ensino Loide Martha e tenho intensificado os estudos em Spring e React almejando o crescimento em Desenvolvimento Full Stack.
 
 <div align="center">
   <a href="https://github.com/f5-nascimento">
