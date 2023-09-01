@@ -1,6 +1,10 @@
 ### Bem-vindo ao meu f5-nascimento!
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Como principais características destaco liderança, comunicação assertiva e resiliência. Atualmente, sou Docente do curso de Informática no Sistema de Ensino Loide Martha e tenho intensificado os estudos em Spring e React almejando o crescimento em Desenvolvimento Full Stack.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Destaco minhas principais características, que são liderança, comunicação assertiva e colaboração. 
+
+Atualmente, estou cursando Computação na Universidade Federal Rural do Semi-Árido, Gestão de Recursos Humanos na Unicarioca e Treinamento e Desenvolvimento na Faculdade BH. Sou docente no Firjan Senai, onde ensino programação, e integro o time de Tech Recruiter na Sou Júnior Labs. 
+
+Tenho intensificado meus estudos em Spring e React, com o objetivo de crescer como desenvolvedor Full Stack, e planejo investir mais em atividades relacionadas a Treinamento e Desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/f5-nascimento">
