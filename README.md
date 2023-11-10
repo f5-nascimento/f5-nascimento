@@ -25,6 +25,6 @@ Tenho intensificado meus estudos em Spring e React, com o objetivo de crescer co
 - MySQL
 
 ### Materiais
-[Acesse ao curso de Programador Front End]("https://profnascimentof.notion.site/profnascimentof/PROGRAMADOR-FRON-ENDf1d9edc217f144d78b8212425861b803")
+[Acesse ao curso de Programador Front End](https://profnascimentof.notion.site/profnascimentof/PROGRAMADOR-FRON-ENDf1d9edc217f144d78b8212425861b803)
 
-[Acesse ao curso de Administrador de Banco de Dados]("https://www.notion.so/profnascimentof/ADMINISTRADOR-DE-BANCO-DE-DADOSfb30bd37519f435facf9fd4dcd514f68?pvs=4")
+[Acesse ao curso de Administrador de Banco de Dados](https://www.notion.so/profnascimentof/ADMINISTRADOR-DE-BANCO-DE-DADOSfb30bd37519f435facf9fd4dcd514f68?pvs=4)
