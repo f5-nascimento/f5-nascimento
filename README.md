@@ -4,7 +4,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e 
 
 Atualmente, estou ampliando meus conhecimentos em Computação na Universidade Federal Rural do Semi-Árido, Gestão de Recursos Humanos na Unicarioca, Sistema de Informação na UniFatecie e Treinamento e Desenvolvimento na Faculdade BH. 
 
-Sou instrutor de Informática no Firjan Senai, onde ensino programação e participo ativamente do projeto Encoding, onde atuo como programador, recebendo mentoria especializada. 
+Sou instrutor de Informática no Firjan Senai, onde ensino programação. Participo, também, ativamente do projeto Encoding, onde atuo como programador, recebendo mentoria especializada. 
 
 Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de crescer como desenvolvedor. Além disso, busco oportunidades para me dedicar mais a atividades ligadas ao Treinamento e Desenvolvimento.
 
