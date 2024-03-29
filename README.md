@@ -31,6 +31,5 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de crescer 
 
 [Acesse ao curso de Administrador de Banco de Dados](https://www.notion.so/profnascimentof/ADMINISTRADOR-DE-BANCO-DE-DADOSfb30bd37519f435facf9fd4dcd514f68?pvs=4)
 
-[DESENVOLVENDO COMPETÊNCIAS ESTRATÉGICAS EM TI](https://docs.google.com/presentation/d/1ubqZejgepSmr3I0ImKeb5I0_Q3scz74VXq-nKd34KIw/edit?usp=sharing)
 
 
