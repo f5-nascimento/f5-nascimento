@@ -1,6 +1,6 @@
 ### Sobre mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Destaco minhas principais características, que são liderança, comunicação assertiva e colaboração. 
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Destaco minhas principais características, que são liderança, comunicação e criatividade. 
 
 Atualmente, estou ampliando meus conhecimentos em Computação na Universidade Federal Rural do Semi-Árido, Gestão de Recursos Humanos na Unicarioca, Sistema de Informação na UniFatecie e Treinamento e Desenvolvimento na Faculdade BH. 
 
