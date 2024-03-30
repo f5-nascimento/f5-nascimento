@@ -2,11 +2,9 @@
 
 Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Destaco minhas principais características, que são liderança, comunicação e criatividade. 
 
-Atualmente, estou ampliando meus conhecimentos em Computação na Universidade Federal Rural do Semi-Árido, Gestão de Recursos Humanos na Unicarioca, Sistema de Informação na UniFatecie e Treinamento e Desenvolvimento na Faculdade BH. 
+Atualmente, estou ampliando meus conhecimentos em Sistema de Informação na UniFatecie. Sou professor de Informática na Estácio e participo ativamente do projeto Encoding, onde atuo como programador, recebendo mentoria especializada. 
 
-Sou instrutor de Informática no Firjan Senai, onde ensino programação. Participo, também, ativamente do projeto Encoding, onde atuo como programador, recebendo mentoria especializada. 
-
-Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de crescer como desenvolvedor. Além disso, busco oportunidades para me dedicar mais a atividades ligadas ao Treinamento e Desenvolvimento.
+Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidificar a minhas expertise em projetos de desenvolvimento web.
 
 ### Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nascimentof/)
