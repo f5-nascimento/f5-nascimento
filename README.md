@@ -31,5 +31,6 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 
 [Acesse ao curso de Introdução à Computação](https://docs.google.com/presentation/d/1ckwbWBe5QX1YmnV_GHyxn7GrFploZ0H0mkd_MTCw4zc/edit?usp=sharing)
 
+[Acesse ao curso de Lógica e Algoritmo](https://docs.google.com/presentation/d/1t9qphvs7Yg98EhY9ie-IGhAissEiTYylAtnNE1w8E5A/edit?usp=sharing)
 
 
