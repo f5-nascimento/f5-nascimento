@@ -29,9 +29,9 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 
 [Acesse ao curso de Administrador de Banco de Dados](https://www.notion.so/profnascimentof/ADMINISTRADOR-DE-BANCO-DE-DADOSfb30bd37519f435facf9fd4dcd514f68?pvs=4)
 
-[Acesse ao curso de MCMC](https://docs.google.com/presentation/d/1P2bOlGd7jAUhNyOwP_CfufmaH7yF50Zc71OGgCisq1E/edit?usp=sharing)
+[Acesse ao curso de MCMC](https://drive.google.com/drive/folders/1sxMjxTkfcIQmficnR30WhAAyjSpUCZPT?usp=sharing)
 
-[Acesse ao curso de Lógica e Algoritmo](https://docs.google.com/presentation/d/1t9qphvs7Yg98EhY9ie-IGhAissEiTYylAtnNE1w8E5A/edit?usp=sharing)
+[Acesse ao curso de ICMSO](https://drive.google.com/drive/folders/1Psnqvty-51rTLTHhQg-8HfI1D6gvpQjU?usp=sharing)
 
 https://www.youtube.com/watch?v=o14-gCNRwR8
 
