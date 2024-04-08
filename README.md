@@ -33,6 +33,8 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 
 [Acesse ao curso de ICMSO](https://drive.google.com/drive/folders/1Psnqvty-51rTLTHhQg-8HfI1D6gvpQjU?usp=sharing)
 
+[Acesse ao curso de IC](https://drive.google.com/drive/folders/1Psnqvty-51rTLTHhQg-8HfI1D6gvpQjU?usp=sharing](https://drive.google.com/drive/folders/1Tfe3hOgBIql7wXxcxK5prmoD4Agu9EjT?usp=sharing)
+
 https://www.youtube.com/watch?v=o14-gCNRwR8
 
 
