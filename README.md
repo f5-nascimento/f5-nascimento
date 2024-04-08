@@ -37,6 +37,8 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 
 [Acesse ao curso de LA](https://drive.google.com/drive/folders/1kwx8s2bqezUA4WPnOsaMe-jiHJGbljqt?usp=sharing)
 
+[Atividade](https://docs.google.com/forms/d/e/1FAIpQLSfbN45lV_RIugK3P1J13kDmvC_xEotAvFYGqda_XxgwAyLw7g/viewform?usp=pp_url)
+
 https://www.youtube.com/watch?v=o14-gCNRwR8
 
 
