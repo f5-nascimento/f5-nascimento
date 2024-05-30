@@ -24,21 +24,5 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - Python
 - MySQL
 
-### Materiais
-[Acesse ao curso de Programador Front End](https://profnascimentof.notion.site/profnascimentof/PROGRAMADOR-FRON-ENDf1d9edc217f144d78b8212425861b803)
-
-[Acesse ao curso de Administrador de Banco de Dados](https://www.notion.so/profnascimentof/ADMINISTRADOR-DE-BANCO-DE-DADOSfb30bd37519f435facf9fd4dcd514f68?pvs=4)
-
-[Acesse ao curso de MCMC](https://drive.google.com/drive/folders/1sxMjxTkfcIQmficnR30WhAAyjSpUCZPT?usp=sharing)
-
-[Acesse ao curso de ICMSO](https://drive.google.com/drive/folders/1Psnqvty-51rTLTHhQg-8HfI1D6gvpQjU?usp=sharing)
-
-[Acesse ao curso de IC](https://drive.google.com/drive/folders/1Tfe3hOgBIql7wXxcxK5prmoD4Agu9EjT?usp=sharing)
-
-[Acesse ao curso de LA](https://drive.google.com/drive/folders/1kwx8s2bqezUA4WPnOsaMe-jiHJGbljqt?usp=sharing)
-
-[Atividade](https://docs.google.com/forms/d/e/1FAIpQLSfbN45lV_RIugK3P1J13kDmvC_xEotAvFYGqda_XxgwAyLw7g/viewform?usp=pp_url)
-
-https://www.youtube.com/watch?v=o14-gCNRwR8
 
 
