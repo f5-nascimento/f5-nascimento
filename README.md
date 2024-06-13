@@ -24,5 +24,5 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - Python
 - MySQL
 
-
-
+### Acesse
+Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
