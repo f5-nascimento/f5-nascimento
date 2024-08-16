@@ -25,6 +25,8 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - MySQL
 
 ### Acesse
+Acesse ao curso [Recapitulação de Sistemas Operacionais](https://docs.google.com/presentation/d/1ZWwDN8CiXkKtxRruCLrTVjJqof0vSoikD6O_R5bjIFA/edit?usp=sharing)
+
 Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
 
 Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
