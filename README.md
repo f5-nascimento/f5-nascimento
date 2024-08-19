@@ -27,6 +27,8 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 ### Acesse
 Acesse ao curso [Fundamentos de Sistemas Operacionais](https://drive.google.com/drive/folders/14LwvJeT8Er_glkqOnbGxFV7vsbhdcMAB?usp=sharing)
 
+Acesse ao curso [Relações Sócio Profissionais, Cidadania e Ética](https://drive.google.com/drive/folders/1JHwONdr-M8499IPjGL5zFWR6WTZhsTfR?usp=sharing)
+
 Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
 
 Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
