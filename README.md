@@ -35,4 +35,12 @@ Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnasc
 
 Acesse ao curso [Orientação a Objetos e Operações em Banco de Dados](https://docs.google.com/presentation/d/1D2DiSHywOhQiXBgNh7yCUwn4yULVYP3uiWNigbHha2g/edit?usp=sharing)
 
+https://www.youtube.com/watch?v=hGKAaVoDlSs
+
+https://www.youtube.com/watch?v=nZiCqPpBHnQ
+
+https://www.youtube.com/watch?v=wWrmnjiiW5w
+
+https://www.youtube.com/watch?v=1RZJLzeYhqM
+
 
