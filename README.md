@@ -35,8 +35,11 @@ Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnasc
 
 ### Acesse
 Acesse o artigo [A evolução da gerência de memória em sistemas operacionais](https://drive.google.com/file/d/1qS7EYEGwplgyiCbduWEQFLx_cuwbCmC8/view?usp=sharing)
+
 Acesse o artigo [Gerência de Memória](https://drive.google.com/file/d/11h4WxTKuC9ta3gB52RMkBD4BOLRseEDy/view?usp=sharing)
+
 Acesse o artigo [Gerenciamento de Memória](https://drive.google.com/file/d/1aFbZBc8HvF8lVptMJwCcTOgfEa9bnXMi/view?usp=sharing)
+
 Acesse o artigo [O que é: Gerenciamento de Memória](https://drive.google.com/file/d/1YcnA8eIvQcPTnwLyY2-hYduuRp4fk72Q/view?usp=sharing)
 
 
