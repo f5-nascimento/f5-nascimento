@@ -25,9 +25,7 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - MySQL
 
 ### Acesse
-Acesse ao curso [Fundamentos de Sistemas Operacionais](https://drive.google.com/drive/folders/14LwvJeT8Er_glkqOnbGxFV7vsbhdcMAB?usp=sharing)
-
-Acesse ao curso [Relações Sócio Profissionais, Cidadania e Ética](https://drive.google.com/drive/folders/1JHwONdr-M8499IPjGL5zFWR6WTZhsTfR?usp=sharing)
+Acesse ao curso [Arquitetura de Computadores](https://drive.google.com/drive/folders/1F7BwQKAGAgvlQliiE8qfT08cg7kGW5Rl?usp=sharing)
 
 Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
 
