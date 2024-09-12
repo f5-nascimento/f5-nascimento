@@ -37,6 +37,10 @@ Acesse os artigos [Indústria 4.0](https://drive.google.com/drive/folders/1XSWj2
 ### Acesse
 Acesse ao ex [ex](https://drive.google.com/drive/folders/1wd5v48cSPHuk9WeAgcy8Rq8U0u5eviJW?usp=sharing)
 
+### Acesse
+Acesse ao Indústria 4.0 e as Tecnologias Habilitadoras [Indústria 4.0 e as Tecnologias Habilitadoras](https://docs.google.com/presentation/d/1z4BwdWhOy8JoCXSKI8eEyDKt4z4BOoBR/edit?usp=sharing&ouid=101074931588247517564&rtpof=true&sd=true)
+
+
 
 
 
