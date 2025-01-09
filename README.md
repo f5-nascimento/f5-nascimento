@@ -31,17 +31,7 @@ Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/
 
 Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
 
-### Acesse
-Acesse os artigos [Indústria 4.0](https://drive.google.com/drive/folders/1XSWj2Tg-WadVtvcYwcIJZke2Tzp_jEZg?usp=sharing)
 
-### Acesse
-Acesse ao ex [ex](https://drive.google.com/drive/folders/1wd5v48cSPHuk9WeAgcy8Rq8U0u5eviJW?usp=sharing)
-
-### Acesse
-Acesse ao Planejamento e organização do trabalho [Planejamento e organização do trabalho](https://docs.google.com/presentation/d/1LThsAeeaMnogUYKzQnmlx1z8I5QYXL82/edit?usp=sharing&ouid=101074931588247517564&rtpof=true&sd=true)
-
-
-https://docs.google.com/forms/d/e/1FAIpQLSeU0MlLFxxwZk5aTpfaVEiCscLdqAsbx6aD-0VuqyzsqiPm5A/viewform?usp=pp_url
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
