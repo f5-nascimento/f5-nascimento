@@ -31,7 +31,7 @@ Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/
 
 Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
 
-
+Acesse ao curso [HandsOn](https://forms.gle/H29evbdTirfu7c5F6)
 
 
 
