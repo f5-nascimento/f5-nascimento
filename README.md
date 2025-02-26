@@ -33,6 +33,10 @@ Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnasc
 
 Acesse ao curso [HandsOn](https://forms.gle/H29evbdTirfu7c5F6)
 
+Acesse ao curso [HandsOn 2](https://forms.gle/rEygCxq1WT8HTj168)
+
+
+
 
 
 
