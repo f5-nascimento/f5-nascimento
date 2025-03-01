@@ -25,7 +25,6 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - MySQL
 
 ### Acesse as aulas
-- [Arquitetura de Computadores](https://drive.google.com/drive/folders/1F7BwQKAGAgvlQliiE8qfT08cg7kGW5Rl?usp=sharing)
 
 - [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
 
