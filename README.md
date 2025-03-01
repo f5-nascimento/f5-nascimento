@@ -24,16 +24,16 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - Python
 - MySQL
 
-### Acesse
-Acesse ao curso [Arquitetura de Computadores](https://drive.google.com/drive/folders/1F7BwQKAGAgvlQliiE8qfT08cg7kGW5Rl?usp=sharing)
+### Acesse as aulas
+- [Arquitetura de Computadores](https://drive.google.com/drive/folders/1F7BwQKAGAgvlQliiE8qfT08cg7kGW5Rl?usp=sharing)
 
-Acesse ao curso [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
+- [Word na Prática da Fundação Bradesco](https://www.notion.so/profnascimentof/WORD-NA-PR-TICA-fa63e22ca3bb418e8926f831b5b04368)
 
-Acesse ao curso [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
+- [PowerPoint na Prática da Fundação Bradesco](https://profnascimentof.notion.site/POWERPOINT-NA-PR-TICA-4447006d82ad41dd9944056814f48441?pvs=25)
 
-Acesse ao curso [HandsOn](https://forms.gle/H29evbdTirfu7c5F6)
+- [HandsOn](https://forms.gle/H29evbdTirfu7c5F6)
 
-Acesse ao curso [HandsOn 2](https://forms.gle/rEygCxq1WT8HTj168)
+- [HandsOn 2](https://forms.gle/rEygCxq1WT8HTj168)
 
 
 
