@@ -35,6 +35,7 @@ Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidifi
 - [HandsOn 2](https://forms.gle/rEygCxq1WT8HTj168)
 
 - [Revisão de Lógica de Programação - Turma A](https://drive.google.com/file/d/1VkyRpUffZ6NNvUFr6K0GqmMbHBghRUk4/view?usp=sharing)
+- [Idade da Camila](https://olimpiada.ic.unicamp.br/pratique/pj/2021/f1/idade/)
 
 
 
