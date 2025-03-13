@@ -5,8 +5,11 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 💡 Apaixonado por ensino e desenvolvimento web, estou consolidando minha expertise, criando projetos práticos e conteúdos que facilitam a jornada de aprendizado dos iniciantes.
 
 📌 No meu GitHub, você encontrará:
+
 ✅ Desafios e projetos didáticos 📂
+
 ✅ Tutoriais detalhados para iniciantes e intermediários 📘
+
 ✅ Conteúdos sobre desenvolvimento web e boas práticas 💻
 
 💬 Vamos aprender juntos? Contribuições e trocas de conhecimento são sempre bem-vindas! 🚀
