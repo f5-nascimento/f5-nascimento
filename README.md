@@ -1,24 +1,15 @@
-### Sobre mim
+🚀 Transformando código em conhecimento!
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Unicarioca (2019) e possuo especialização em Banco de Dados pela UniBF (2020). Destaco minhas principais características, que são liderança, comunicação e criatividade. 
+Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e especialista em Banco de Dados (UniBF - 2020). Atuo como instrutor de TI no Firjan SENAI, formando novos profissionais e ajudando a construir bases sólidas para quem está ingressando na tecnologia.
 
-Atualmente, estou ampliando meus conhecimentos em Sistema de Informação na UniFatecie. Sou professor de Informática na Estácio e participo ativamente do projeto Encoding, onde atuo como programador, recebendo mentoria especializada. 
+💡 Apaixonado por ensino e desenvolvimento web, estou consolidando minha expertise, criando projetos práticos e conteúdos que facilitam a jornada de aprendizado dos iniciantes.
 
-Tenho intensificado meus estudos em HTML, CSS e Node, com o objetivo de solidificar a minha expertise em projetos de desenvolvimento web.
+📌 No meu GitHub, você encontrará:
+✅ Desafios e projetos didáticos 📂
+✅ Tutoriais detalhados para iniciantes e intermediários 📘
+✅ Conteúdos sobre desenvolvimento web e boas práticas 💻
 
-### Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nascimentof/)
-
-### Stacks
-
-- HTML5
-- CSS3
-- JavaScript
-- Node
-- Express
-- Java
-- Python
-- MySQL
+💬 Vamos aprender juntos? Contribuições e trocas de conhecimento são sempre bem-vindas! 🚀
 
 
 
