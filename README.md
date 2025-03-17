@@ -14,6 +14,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 
 💬 Vamos aprender juntos? Contribuições e trocas de conhecimento são sempre bem-vindas! 🚀
 
+[Apresentações NEM](https://drive.google.com/drive/folders/1ElEEZCZfx1WSWzkcH9ga-SYswqEvA86w?usp=sharing)
+
 
 
 
