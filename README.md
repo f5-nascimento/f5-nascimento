@@ -14,6 +14,8 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 
 💬 Vamos aprender juntos? Contribuições e trocas de conhecimento são sempre bem-vindas! 🚀
 
+## Turma A:
+
 - [Grupo 01 - Classificados](https://www.canva.com/design/DAGhtBnWEqw/HYQEgVNoKKBfuyMujbCg0w/edit?authuser=1) 
 - [Grupo 02 - Hotel](https://www.canva.com/design/DAGh73wVYY4/Iehg4KrMXemD41pIm9P8Yw/edit?authuser=1)
 - [Grupo 03 - Aluguel de Veículos](https://www.canva.com/design/DAGhtdmct5o/ttRiwuEqe2H9-sF3e1zTUw/view?utm_content=DAGhtdmct5o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8238e45975&authuser=1)
@@ -26,7 +28,18 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 - [Grupo 10 - Imobiliário](https://www.canva.com/design/DAGWLWwQGbw/8cnypfwPnscNoBdj8YwOZA/edit?authuser=1)
 
 
+## Turma B:
 
+- [Grupo 01 - Viagens e Turismo](https://www.canva.com/design/DAGhm8f6_gg/Z-j-BOHhDyNzEb1np40Wmw/edit?authuser=0)
+- [Grupo 02 - Educação](https://www.canva.com/design/DAGhnJo5Syg/QgqPfNaPMSMfTyD3TCN6EA/edit)
+- [Grupo 03 - Recursos Humanos](https://www.canva.com/design/DAGhmyPvxYs/YyrSvyeUD7_RtZMb6U99LQ/edit?authuser=0)
+- [Grupo 04 - Música](https://www.canva.com/design/DAGhm6J9EI4/uB1P2jS1p5zdfqn2ODASIQ/edit?authuser=0)
+- [Grupo 05 - ]()
+- [Grupo 06 - ]()
+- [Grupo 07 - ]()
+- [Grupo 08 - ]()
+- [Grupo 09 - ]()
+- [Grupo 10 - ]()
 
 
 
