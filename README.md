@@ -41,7 +41,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 - [Grupo 07 - Compras](https://drive.google.com/file/d/1_ujSm3nP0vWSYaSYSOkycoLABExD4Qge/view?usp=sharing)
 - [Grupo 08 - Saúde](https://www.canva.com/design/DAGhm0GhhXg/kT_-ZioN4Zz6MbvUAo6FnQ/edit?utm_content=DAGhm0GhhXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Grupo 09 - Eventos](https://www.canva.com/design/DAGiCBVLNRI/dtz4C42J14HRPvrFnUhwhA/edit)
-- [Grupo 10 - Livraria]()
+- [Grupo 10 - Livraria](https://www.canva.com/pt_br/login/?redirect=%2Fdesign%2FDAGhm_RtZEw%2FFGPl1gvrweojqJrDGYgNIg%2Fedit%3Futm_content%3DDAGhm_RtZEw%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink2%26utm_source%3Dsharebutton)
 
 
 
