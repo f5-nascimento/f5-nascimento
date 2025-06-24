@@ -14,5 +14,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas (Unicarioca - 2019) e esp
 
 💬 Vamos aprender juntos? Contribuições e trocas de conhecimento são sempre bem-vindas! 🚀
 
+https://drive.google.com/file/d/1_1Sq9hoEOu-61bDOUFWNOvMjflSYae7n/view?usp=sharing
+
 
 
